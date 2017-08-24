@@ -1,6 +1,6 @@
 # Site settings
-name: GogaDent
-title: GogaDent | Inovatie - Compasiune - Experienta 
+name: GOGA Dent
+title: GOGA Dent | Inovatie - Compasiune - Experienta 
 description: "Inovatie | Compasiune | Experienta"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
@@ -9,7 +9,7 @@ logo_url: logo.png
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: GogaDent
+    hero_title: GOGA Dent
     hero_description: Inovatie | Compasiune | Experienta 
 
 # Contact form
