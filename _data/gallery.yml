@@ -1,31 +1,31 @@
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
+- image_thumb: cabinet.jpg
+  image_large: cabinet.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
+- image_thumb: consult1.jpg
+  image_large: consult1.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
+- image_thumb: butoane.jpg
+  image_large: butoane.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
+- image_thumb: consult2.jpg
+  image_large: consult2.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
+- image_thumb: chiuveta.jpg
+  image_large: chiuveta.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
+- image_thumb: lampa.jpg
+  image_large: lampa.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
+- image_thumb: sala.jpg
+  image_large: sala.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
+- image_thumb: scaun.jpg
+  image_large: scaun.jpg
   image_alt: something meaningful

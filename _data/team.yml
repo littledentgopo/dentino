@@ -1,34 +1,20 @@
-- name: Britta Perry
-  image: team.jpg
+- name: Irina Alexandru
+  image: team/irina.jpg
+  email: 
+  phone: 9659 43 21
+
+- name: Petronela Poenaru
+  image: team/petronela.jpg
   email: email@gmail.com
   phone: 9659 43 21
 
-- name: Troy Barnes 
-  image: team.jpg
+- name: Carmen 
+  image: team/carmen.jpg
   email: email@gmail.com
   phone: 9659 43 21
 
-- name: Annie
-  image: team.jpg
+- name: Roxana
+  image: team/roxana.jpg
   email: email@gmail.com
   phone: 9659 43 21
 
-- name: Jeff Winger
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Britta Perry
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Troy Barnes
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
-
-- name: Annie
-  image: team.jpg
-  email: email@gmail.com
-  phone: 9659 43 21
