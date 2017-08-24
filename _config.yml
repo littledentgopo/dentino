@@ -1,4 +1,5 @@
 # Site settings
+name: INO Dent
 title: INO Dent | Inovatie - Compasiune - Experienta 
 description: "Inovatie | Compasiune | Experienta"
 baseurl: "" # the subpath of your site, e.g. /blog
