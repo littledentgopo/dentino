@@ -1,19 +1,23 @@
 - name: Irina Alexandru
+  title: Medic Dentist
   image: team/irina.jpg
   email: 
   phone: 9659 43 21
 
 - name: Petronela Poenaru
+  title: Medic Dentist
   image: team/petronela.jpg
   email: email@gmail.com
   phone: 9659 43 21
 
-- name: Carmen 
+- name: Carmen Ciobanu
+  title: Asistenta
   image: team/carmen.jpg
   email: email@gmail.com
   phone: 9659 43 21
 
-- name: Roxana
+- name: Roxana Gavrilescu
+  title: Asistenta
   image: team/roxana.jpg
   email: email@gmail.com
   phone: 9659 43 21
