@@ -33,8 +33,10 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Bdul Octavian Goga, Nr 21, Bucuresti
+    address: Bdul Octavian Goga Nr 21, Sector 3, Bucuresti
     address_details: svg/min/logo.svg
+    key: AIzaSyBjpBjFh9xbRqw8jBS6vV4d53vlWpjDTpI
+
 
 # Social settings
 facebook: https://www.facebook.com/InoDent.ro/
