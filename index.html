@@ -183,7 +183,7 @@ layout: default
                     <div class="testimonial-item">
                         <svg class="icon icon-quote-left"><use xlink:href="#icon-quote-left"></use></svg>
                         <blockquote>
-                            <p>{{ testimonial.description }}</p>
+                            <p>{{ testimonial.description }}  <a href="{{ testimonial.link}}" style="color:#337ab7">&hellip;</a></p>
                             <footer>
                                 {{ testimonial.name }}
                                 <small>{{ testimonial.title }}</small>
@@ -191,6 +191,15 @@ layout: default
                         </blockquote>
                     </div>
                 {% endfor %}
+            </div>
+            
+            
+            <div class="row">
+                <small>Citeste mai multe review-uri pe pagina de <a href="https://www.facebook.com/dririnaalexandru/reviews" style="color:#365899">Facebook</a></small>
+            </div>
+        
+            <div class="row">
+             <div class="fb-page" data-href="https://www.facebook.com/dririnaalexandru/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/dririnaalexandru/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/dririnaalexandru/">Dr Irina Alexandru</a></blockquote></div>
             </div>
         </div>
     </div>
