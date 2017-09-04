@@ -36,6 +36,8 @@ table#pricesTable del {
 @media screen and (max-width: 580px) {
   #pricesTable th {
     display: block;
+    padding: 8px 0;
+
   }
 }
 
@@ -45,7 +47,6 @@ table#pricesTable del {
 
 @media screen and (max-width: 580px) {
   #pricesTable tr {
-    padding: 8px 0;
     display: block;
   }
 }
