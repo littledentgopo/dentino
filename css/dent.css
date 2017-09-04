@@ -44,14 +44,9 @@ table#pricesTable del {
 #pricesTable .row.header {
   font-weight: 900;
   color: #ffffff;
-  background: #ea6153;
+  background: #3dadb2;
 }
-#pricesTable .row.green {
-  background: #27ae60;
-}
-#pricesTable .row.blue {
-  background: #2980b9;
-}
+
 @media screen and (max-width: 580px) {
   #pricesTable .row {
     padding: 8px 0;
