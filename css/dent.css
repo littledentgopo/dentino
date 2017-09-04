@@ -39,7 +39,7 @@ table#pricesTable del {
 
 @media screen and (max-width: 580px) {
   #pricesTable tr,
-  #pricesTable tr {
+  #pricesTable th {
     padding: 8px 0;
     display: block;
   }
