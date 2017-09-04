@@ -13,3 +13,59 @@ table#pricesTable del {
     color: red;
     margin-left: 30px;
 }
+
+
+
+#pricesTable .wrapper {
+  margin: 0 auto;
+  padding: 40px;
+  max-width: 800px;
+}
+
+#pricesTable .table {
+  margin: 0 0 40px 0;
+  width: 100%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  display: table;
+}
+@media screen and (max-width: 580px) {
+  #pricesTable .table {
+    display: block;
+  }
+}
+
+#pricesTable .row {
+  display: table-row;
+  background: #f6f6f6;
+}
+#pricesTable .row:nth-of-type(odd) {
+  background: #e9e9e9;
+}
+#pricesTable .row.header {
+  font-weight: 900;
+  color: #ffffff;
+  background: #ea6153;
+}
+#pricesTable .row.green {
+  background: #27ae60;
+}
+#pricesTable .row.blue {
+  background: #2980b9;
+}
+@media screen and (max-width: 580px) {
+  #pricesTable .row {
+    padding: 8px 0;
+    display: block;
+  }
+}
+
+#pricesTable .cell {
+  padding: 6px 12px;
+  display: table-cell;
+}
+@media screen and (max-width: 580px) {
+  #pricesTable .cell {
+    padding: 2px 12px;
+    display: block;
+  }
+}
