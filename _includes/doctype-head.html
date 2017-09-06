@@ -24,4 +24,8 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ "/favicon.png" | prepend: site.baseurl }}">
+    
+    {% if site.analytics %}
+        {% include analytics.html %}
+    {% endif %}
 </head>
