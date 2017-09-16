@@ -1,15 +1,18 @@
 - icon: icon-implant
   title: Implant unidentar
-  description: 1 dinte = 1 implant + 1 coronita <br/> 400 euro
+  description: 1 dinte <br/> 1 implant + 1 coronita = 400 euro
   
 - icon: icon-bridge
-  title: Punte dentara
-  description: Punte dentara  <br/> 3 dinti = 2 implanturi + 3 coronite. <br/> 950 euro
-
+  title: Punte pe implanturi
+  description: Punte de 3 dinti <br/> 2 implanturi + 3 coronite = 950 euro
   
+  - icon: icon-bridge
+  title: Punte pe implanturi
+  description: Punte de 5 dinti <br/> 3 implanturi + 5 coronite = 1500 euro
+
 - icon: icon-teeth
-  title: Fast & Fixed
-  description: Lucrare totala <br/> o arcada = 6 implanturi + 12 coronite <br/> 3300 euro
+  title: Implanturi Fast & Fixed
+  description: o arcada <br/> 6 implanturi + 12 coronite = 3300 euro
 
 - icon: icon-smile
   title: Estetica dentara
