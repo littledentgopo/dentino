@@ -32,6 +32,7 @@
         items : 2,
         itemsDesktopSmall : [979,2],
         stopOnHover: true,
+        
  
     });
 
