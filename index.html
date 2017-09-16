@@ -150,9 +150,9 @@ layout: default
                     <div class="testimonial-item">
                         <svg class="icon icon-quote-left"><use xlink:href="#icon-quote-left"></use></svg>
                         <blockquote>
-                            <p>{{ testimonial.description }}  <a href="{{ testimonial.link}}" style="color:#337ab7">&hellip;</a></p>
+                            <p>{{ testimonial.description }}</p>
                             <footer>
-                                {{ testimonial.name }}
+                                <a href="{{ testimonial.link}}"><img src="https://graph.facebook.com/{{ testimonial.fbid }}/picture?type=normal"/> {{ testimonial.name }}</a>
                                 <small>{{ testimonial.title }}</small>
                             </footer>
                         </blockquote>
