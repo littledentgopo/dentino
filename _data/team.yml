@@ -1,13 +1,11 @@
 - name: Irina Alexandru
   title: Medic Dentist
   image: team/irina.jpg
-  email: 
-  phone: +40766748971
-
+  email: dririnaalexandru@gmail.com
+  phone: "0766748971"
+  
 - name: Petronela Poenaru
   title: Medic Dentist
   image: team/petronela.jpg
-  email: email@gmail.com
-  phone: +40721502570
-
-
+  email: petro@gmail.com
+  phone: "0721502570"
