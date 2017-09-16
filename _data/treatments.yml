@@ -4,16 +4,17 @@
   
 - icon: icon-bridge
   title: Punte pe implanturi
-  description: Punte de 3 dinti <br/> 2 implanturi + 3 coronite = 950 euro
-  
-- icon: icon-bridge
-  title: Punte pe implanturi
-  description: Punte de 5 dinti <br/> 3 implanturi + 5 coronite = 1500 euro
+  description: 3 dinti <br/> 2 implanturi + 3 coronite = 950 euro <br/> 5 dinti <br/> 3 implanturi + 5 coronite = 1500 euro
 
 - icon: icon-teeth
   title: Implanturi Fast & Fixed
   description: o arcada <br/> 6 implanturi + 12 coronite = 3300 euro
 
+
+- icon: icon-crown
+  title: Coroana zirconiu
+  description: Tratamentul de canal curata infectia din pulpa dintelui inainte ca aceasta sa se extinda si sa compromita integral dintele.
+  
 - icon: icon-smile
   title: Estetica dentara
   description: Tratamentul de canal curata infectia din pulpa dintelui inainte ca aceasta sa se extinda si sa compromita integral dintele.
