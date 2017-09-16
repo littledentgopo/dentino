@@ -63,6 +63,8 @@ table#pricesTable del {
   }
 }
 
-.hero-welcome h4 {
+.hero-welcome h4, 
+.hero-welcome h3 {
     color: #3dadb2;
+    padding: 10px;
 }
