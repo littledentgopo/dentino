@@ -1,18 +1,15 @@
 - icon: icon-implant
-  title: Implanturi dentare
-  description: Implantul dentar este un surub din titan utilizat pentru a inlocui radacina unuia sau mai multor dinti lipsa.
-
-- icon: icon-crown
-  title: Coroana dentara
-  description: Fatetele dentare sunt formate dintr-un strat subtire de ceramica care se aplica pe dinti, pentru un efect estetic maxim.
+  title: Implant unidentar
+  description: 1 dinte = 1 implant + 1 coronita <br/> 400 euro
   
 - icon: icon-bridge
   title: Punte dentara
-  description: Albirea dentara este o metoda de a imbunatati culoarea dintilor fara a indeparta portiuni din acestia. 
+  description: Punte dentara  <br/> 3 dinti = 2 implanturi + 3 coronite. <br/> 950 euro
+
   
 - icon: icon-teeth
   title: Fast & Fixed
-  description: O coroana este un dispozitiv care imbraca complet un dinte deteriorat pentru a-l sustine si pentru a-i restabili forma naturala.
+  description: Lucrare totala <br/> o arcada = 6 implanturi + 12 coronite <br/> 3300 euro
 
 - icon: icon-smile
   title: Estetica dentara
