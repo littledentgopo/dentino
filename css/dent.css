@@ -63,11 +63,14 @@ table#pricesTable del {
   }
 }
 
-.hero-welcome h1 {
-    margin: 0 0 5px;
-    color: #3dadb2;
-    font-weight: 500;
-    font-size: 2rem;
+.testimonials a {
+    color: white;
+}
+
+.testimonials img {
+    height: 50px;
+    width: 50px;
+    margin: 10px;
 }
 
 .hero-welcome p {
