@@ -62,3 +62,7 @@ table#pricesTable del {
     display: block;
   }
 }
+
+.hero-welcome h4 {
+    color: #3dadb2;
+}
