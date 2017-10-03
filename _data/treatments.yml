@@ -1,10 +1,10 @@
 - icon: icon-implant
-  title: Implant dentar Alpha Bio
-  description: Implanturile dentare Alpha Bio sunt niste implanturi acesibile produse de celebra firma Nobel Biocare. Reprezinta una dintre cele mai populare implanturi dentare in clinicile din Bucuresti. Pretul promotional pentru un implant dentar Alpha Bio este de 250 euro.
+  title: Implant dentar Alpha Bio - 250 euro
+  description: Implanturile dentare Alpha Bio sunt niste implanturi acesibile produse de celebra firma Nobel Biocare. Reprezinta una dintre cele mai populare implanturi dentare in clinicile din Bucuresti.
   
 - icon: icon-implant
-  title: Implant dentar Bredent
-  description: Implanturile dentare Bredent sunt o varianta premium de implanturi de provenienta germana. Firma Bredent are o experienta mai mare de 40 de ani in fabricare implanturilor dentare. Pretul promotional pentru un implant dentar Bredent este de 400 euro.
+  title: Implant dentar Bredent - 400 euro
+  description: Implanturile dentare Bredent sunt o varianta premium de implanturi de provenienta germana. Firma Bredent are o experienta mai mare de 40 de ani in fabricare implanturilor dentare. 
 
 - icon: icon-teeth
   title: Implanturi Fast & Fixed
@@ -12,14 +12,15 @@
 
 
 - icon: icon-crown
-  title: Coroana zirconiu
-  description: Zirconiul devine rapid materialul de preferat pentru coroane dentare. Este un material foarte puternic capabil sa reziste la uzura utilizarii zilnice. Din punct de vedere estetic, este translucid foarte similar cu un dinte natural si reflecta lumina in acelasi fel. Pretul promotional pentru o coroana de zirconiu pe implant dentar este de 800 de ron. 
+  title: Coroana ceramica pe implant - 140 euro
+  description: Coroanele ceramice pe suport metalic reprezinta o imbinare a rezistentei mecanice a metalului si a calitatilor estetice ale materialului ceramic. Coroana metalo-ceramica este alcatuita dintr-o capa metalica turnata, acoperita complet sau partial de un strat de portelan. 
   
+
 - icon: icon-crown
-  title: Coroana ceramica
-  description: Coroanele ceramice pe suport metalic reprezinta o imbinare a rezistentei mecanice a metalului si a calitatilor estetice ale materialului ceramic. Coroana metalo-ceramica este alcatuita dintr-o capa metalica turnata, acoperita complet sau partial de un strat de portelan. Pretul pentru o coroana ceramica pe implant dentar este de 650 de ron. 
+  title: Coroana zirconiu pe implant - 175 euro
+  description: Zirconiul devine rapid materialul de preferat pentru coroane dentare. Este un material foarte puternic capabil sa reziste la uzura utilizarii zilnice. Din punct de vedere estetic, este translucid foarte similar cu un dinte natural si reflecta lumina in acelasi fel. 
   
 
 - icon: icon-globe
   title: Consultatie online
-  description: Cel mai usor mod de a intra in contact cu mine este sa imi scrieti un mesaj pe Facebook sau pe email dririnaalexandru@gmail.com.
+  description: Cel mai usor mod de a intra in contact cu mine este sa imi scrieti un mesaj pe <a href="{{site.facebook}}">Facebook</a> sau pe email dririnaalexandru@gmail.com.
