@@ -3,7 +3,7 @@ name: IQdent
 title: IQdent | Tratamente inteligente - Compasiune - Experiență  
 description: Cabinet stomatologic specializat in tratamente cu implanturi dentare la prețuri accesibile. Ne gasiți pe Bdul Octavian Goga Nr 21, Sector 3, Bucuresti.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+url: "https://iqdent.ro" # the name of your domain
 logo_url: /logo.png
 
 # Hero
