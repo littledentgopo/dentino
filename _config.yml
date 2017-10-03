@@ -65,3 +65,7 @@ exclude: [
 # Theme Settings
 analytics: UA-66640019-1
 google_verification:
+
+
+gems:
+    - jekyll-sitemap

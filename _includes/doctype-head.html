@@ -7,6 +7,12 @@
     {% if site.google-verification %}
     <meta name="google-site-verification" content="{{ site.google_verification }}">
     {% endif %}
+    
+        
+    {% if page.noindex %}
+    <meta name="robots" content="noindex,nofollow">   
+    {% endif %}
+
 
     <title>{{ site.title }}</title>
     <meta name="description" content="{{ site.description }}">
