@@ -24,7 +24,7 @@ description: Implanturi dentare la preturi accesibile. Tratamente inteligente si
                         <blockquote>
                             <p>{{ testimonial.description }}</p>
                             <footer>
-                                <a href="{{ testimonial.link}}" class="testimonial-link"><img src="https://graph.facebook.com/{{ testimonial.fbid }}/picture?type=normal"/> {{ testimonial.name }}</a>
+                                <a href="{{ testimonial.link}}" class="testimonial-link"><img  rel="nofollow" src="https://graph.facebook.com/{{ testimonial.fbid }}/picture?type=normal"/> {{ testimonial.name }}</a>
                                 <small>{{ testimonial.title }}</small>
                             </footer>
                         </blockquote>
