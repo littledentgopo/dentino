@@ -89,7 +89,7 @@ noindex: true
         
         <div class="row">
                 <div class="col-lg-12 text-center">
-                   <div class="fb-comments" data-href="https://www.dririnaalexandru.ro/oferte-implant-dentar/" data-numposts="15" data-colorscheme="light" data-order-by="reverse_time"></div>   
+                    {% include comments.html %}
                 </div>
 
         </div>
