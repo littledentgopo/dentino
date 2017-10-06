@@ -18,6 +18,12 @@ layout: default
             </ul>
         </div>
         {% endfor %}
+        <div>
+            <br/><br/>
+            <ul>
+            {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
+            </ul>
+        </div>
        
     </div>
     <div class="col-sm-4">
