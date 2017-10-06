@@ -96,6 +96,7 @@ table#pricesTable del {
  flex: 1;
  padding-left: 25%;
  padding-right: 25%;
+ background: #2C3E50; 
 }
 
 #callnow div a {
@@ -120,6 +121,5 @@ table#pricesTable del {
 @media screen and (max-width: 1024px) {
     div#callnow { 
         display: flex !important; 
-        background: #3aa6aa; 
     }  
 }
