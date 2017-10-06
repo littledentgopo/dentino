@@ -30,7 +30,9 @@
         autoPlay: 5000, //Set AutoPlay to 5 seconds
 
         items : 2,
-        itemsDesktopSmall : [979,2],
+        itemsDesktop : [1199, 2],
+        itemsDesktopSmall : [979, 2],
+        itemsTablet : [768, 2],
         stopOnHover: true,
         
  
