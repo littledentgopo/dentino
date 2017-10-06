@@ -1,15 +1,25 @@
+
 <!-- Start 3 columns -->
 <div class="three-shade-col">
     <div class="col-sm-4">
         <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
-        <h3>Contact</h3>
-        <ul>
-            {% if site.contact.phone %}<li><strong>Telefon:</strong> {{ site.contact.phone }}</li>{% endif %}
-            {% if site.contact.emergency %}<li><strong>Emergency:</strong> {{ site.contact.emergency }}</li>{% endif %}
+        <h3>Contactează-ne</h3>
+        {% for member in site.data.team %}
+        <div>
+            <ul>
+            {% if member.phone %}<li><strong>{{ member.name }}:</strong> {{ member.phone }}</li>{% endif %}
+            </ul>
+        </div>
+        {% endfor %}
+        <div>
+            <br/><br/>
+            <ul>
             {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
-        </ul>
+            </ul>
+        </div>
+       
     </div>
-    <div class="col-sm-4 nodisplay-mobile">
+    <div class="col-sm-4">
         <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
         <h3>Orar</h3>
         <table>
@@ -29,11 +39,14 @@
             </tbody>
         </table>
     </div>
-    <div class="col-sm-4 nodisplay-mobile">
+    <div class="col-sm-4">
         <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
         <h3>Adresa</h3>
             <p>
                 {{ site.contact.address }}
+            </p>
+            <p>
+                {{ site.contact.directions }}
             </p>
     </div>
 </div>
