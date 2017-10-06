@@ -12,9 +12,8 @@ layout: default
         <h3>Contactează-ne</h3>
         {% for member in site.data.team %}
         <div>
-            <h4>{{ member.name }}</h4>
             <ul>
-            {% if member.phone %}<li><strong>Telefon:</strong> {{ member.phone.phone }}</li>{% endif %}
+            {% if member.phone %}<li><strong>{{ member.name }}:</strong> {{ member.phone }}</li>{% endif %}
             {% if member.email %}<li><strong>Email:</strong> {{ member.email }}</li>{% endif %}
             </ul>
         </div>
