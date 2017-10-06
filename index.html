@@ -4,59 +4,7 @@ layout: default
 
 {% include hero.html %}
 
-
-<!-- Start 3 columns -->
-<div class="three-shade-col">
-    <div class="col-sm-4">
-        <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
-        <h3>Contactează-ne</h3>
-        {% for member in site.data.team %}
-        <div>
-            <ul>
-            {% if member.phone %}<li><strong>{{ member.name }}:</strong> {{ member.phone }}</li>{% endif %}
-            </ul>
-        </div>
-        {% endfor %}
-        <div>
-            <br/><br/>
-            <ul>
-            {% if site.contact.email %}<li><strong>Email:</strong> {{ site.contact.email }}</li>{% endif %}
-            </ul>
-        </div>
-       
-    </div>
-    <div class="col-sm-4">
-        <svg class="icon icon-clock-o"><use xlink:href="#icon-clock-o"></use></svg>
-        <h3>Orar</h3>
-        <table>
-            <tbody>
-                <tr>
-                    <td>Luni – Vineri</td>
-                    <td>{{ site.monday_friday }}</td>
-                </tr>
-                <tr>
-                    <td>Sambata</td>
-                    <td>{{ site.saturday }}</td>
-                </tr>
-                <tr>
-                    <td>Duminica</td>
-                    <td>{{ site.sunday }}</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-    <div class="col-sm-4">
-        <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
-        <h3>Adresa</h3>
-            <p>
-                {{ site.contact.address }}
-            </p>
-            <p>
-                {{ site.contact.directions }}
-            </p>
-    </div>
-</div>
-<!-- End 3 columns -->
+{% include contact.html %}
 
 <!-- Start About -->
 <div id="about" class="about">
@@ -172,7 +120,7 @@ layout: default
             
             
             <div class="row">
-                <small>Citeste mai multe review-uri pe pagina de <a href="https://www.facebook.com/dririnaalexandru/reviews" style="color:#365899">Facebook</a></small>
+                <small>Citeste mai multe review-uri pe pagina de <a href="https://www.facebook.com/dririnaalexandru/reviews">Facebook</a></small>
             </div>
         
             <div class="row">
