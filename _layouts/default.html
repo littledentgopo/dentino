@@ -11,6 +11,12 @@
            
     {% include footer.html %}
     
+     <div id="callnow">
+        <div>
+            <a href="tel: {{contact.office.tel}}"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg>Sună acum</a>
+        </div>
+    </div>
+    
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="//maps.googleapis.com/maps/api/js?key={{site.map.key}}"></script>
