@@ -14,21 +14,20 @@
            padding-left: $space*3; 
            padding-right: $space*3;
         }
-        @include breakpoint(small) {
-            &:nth-child(2) {
-                display: flex; 
-            }
-        }
         &:nth-child(1) {
             background: $colorPrimary;
         }
         &:nth-child(2) {
             background: lighten($colorPrimary, 2%);
             display: none;
+            @include breakpoint(small) {
+                display: block; 
+            }
         }
         &:nth-child(3) {
             background: lighten($colorPrimary, 4%);
         }
+        
     }
     .icon {
         font-size: 2rem;
