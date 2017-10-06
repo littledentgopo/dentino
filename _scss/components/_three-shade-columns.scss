@@ -16,7 +16,7 @@
         }
         @include breakpoint(small) {
             &:nth-child(2) {
-                display: none; 
+                display: flex; 
             }
         }
         &:nth-child(1) {
@@ -24,6 +24,7 @@
         }
         &:nth-child(2) {
             background: lighten($colorPrimary, 2%);
+            display: none;
         }
         &:nth-child(3) {
             background: lighten($colorPrimary, 4%);
