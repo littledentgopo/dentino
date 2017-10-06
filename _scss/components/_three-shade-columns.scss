@@ -6,6 +6,13 @@
     display: block;
     @include breakpoint(small) {
         display: flex;
+        [class^="col-"] {
+            &:nth-child(2) {
+                display: none;
+                
+            }
+        }
+
     }
     [class^="col-"] {
         padding: $space*3 $space;
