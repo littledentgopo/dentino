@@ -24,7 +24,6 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
         </div>
 
         <div class="row">
-            <h3>De ce acest pret?</h3>
             
             <div class="col-sm-6">
                 <img src="/img/team/irina-about.jpg" alt="consult cabinet stomatologic {{site.name}}">
@@ -41,6 +40,8 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
             </div>
 
             <div class="col-sm-6">
+                <h3>De ce acest pret?</h3>
+
                 
                 <div class="media">
                     <div class="media-left">
