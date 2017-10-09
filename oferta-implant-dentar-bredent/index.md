@@ -61,7 +61,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Ce implanturi folosim? - Atenție, deoarece Bredent este un implant popular au apărut și implanturi care sunt compatibile cu platforma Bredent. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Bredent atunci ar trebui să primiți Bredent, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</p>
+                        <p>Ce implanturi folosim? - Folosim numai implanturi originale de la distribuitori autorizati. Atenție, deoarece Bredent este un implant popular au apărut și implanturi care sunt compatibile cu platforma Bredent. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Bredent atunci ar trebui să primiți Bredent, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</p>
                     </div>
                 </div>
 
