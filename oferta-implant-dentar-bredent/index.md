@@ -20,7 +20,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/promo/implant-dentar-bredent-400.jpg" alt="Implant dentar Bredent pret 400 euro">
             </div>
-            <br/><br/>
+            <br/><br/><br/><br/>
         </div>
 
         <div class="row">
@@ -31,7 +31,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                 <p>
                 Sunt medic dentist cu experiență de peste 10 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
                 <p>
-                <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.facebook}}/reviews" target="_blank">Facebook</a>. Atenție, deoarece Bredent este un implant popular au apărut și implanturi care sunt compatibile cu platforma Bredent. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Bredent atunci ar trebui să primiți Bredent, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.
+                <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.facebook}}/reviews" target="_blank">Facebook</a>. 
                 </p>
                 
                 
@@ -53,11 +53,22 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                         <p>Care este pretul total? - Oferta de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care costa 150 de euro. Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
                     </div>
                 </div>
+                
+                <div class="media">
+                    <div class="media-left">
+                        <div class="boxed-icon">
+                            <svg class="icon icon-diamond"><use xlink:href="#icon-diamond"></use></svg>
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <p>Ce implanturi folosim? - Atenție, deoarece Bredent este un implant popular au apărut și implanturi care sunt compatibile cu platforma Bredent. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Bredent atunci ar trebui să primiți Bredent, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</p>
+                    </div>
+                </div>
 
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
-                            <svg class="icon icon-medkit"><use xlink:href="#icon-medkit"></use></svg>
+                            <svg class="icon icon-user-md"><use xlink:href="#icon-user-md"></use></svg>
                         </div>
                     </div>
                     <div class="media-body">
