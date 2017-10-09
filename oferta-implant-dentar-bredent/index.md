@@ -24,10 +24,13 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
         </div>
 
         <div class="row">
-            <br/><br/>
+            <h3>De ce acest pret?</h3>
+            
+            <div class="col-sm-6">
+                <img src="/img/team/irina-about.jpg" alt="consult cabinet stomatologic {{site.name}}">
+            </div>
 
             <div class="col-sm-6">
-                <h3>De ce acest pret?</h3>
                 <p>
                 Sunt medic dentist cu experiență de peste 10 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
                 <p>
@@ -69,9 +72,6 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                 
                 <p>Pentru a incepe tratamentul cu implanturi dentare trebuie mai intai sa va programati pentru o consultatie. Daca aveti deja o radiografie dentara mi-o puteti trimite pe email pentru a va analiza cazul in prealabil. Daca locuiti in strainatate este bine sa luati legatura din timp pentru a stabili cat mai exact planul de tratament si timpul necesar pentru indeplinirea acestuia. Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong>.</p>
 
-            </div>
-            <div class="col-sm-6">
-                <img src="/img/team/irina-about.jpg" alt="consult cabinet stomatologic {{site.name}}">
             </div>
         </div>
         
