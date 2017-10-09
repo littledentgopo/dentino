@@ -34,13 +34,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                 <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.facebook}}/reviews" target="_blank">Facebook</a>. Atenție, deoarece Bredent este un implant popular au apărut și implanturi care sunt compatibile cu platforma Bredent. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Bredent atunci ar trebui să primiți Bredent, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.
                 </p>
                 
-                <p>Pentru a incepe tratamentul cu implanturi dentare trebuie mai intai sa va programati pentru o consultatie. Daca aveti deja o radiografie dentara mi-o puteti trimite pe email pentru a va analiza cazul in prealabil. Daca locuiti in strainatate este bine sa luati legatura din timp pentru a stabili cat mai exact planul de tratament si timpul necesar pentru indeplinirea acestuia.</p>
-                
-                <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong>.</p>
-
-            </div>
-            <div class="col-sm-6">
-                 <div class="media">
+                <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
                             <svg class="icon icon-heart"><use xlink:href="#icon-heart"></use></svg>
@@ -61,18 +55,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                         <p>Cat dureaza interventia? - In mod normal plasarea implantului dentar se efectueaza intr-o singura sedinta de aproximativ o ora, iar lucrarea se realizeaza dupa 4-6 luni dupa ce implantul se osteointegreaza. Pentru edentatii totale exista si varianta de lucrare rapida Fast &amp; Fixed  cu implanturi si lucrare in 48 de ore.</p>
                     </div>
                 </div>
-                
-                <div class="media">
-                    <div class="media-left">
-                        <div class="boxed-icon">
-                            <svg class="icon icon-star"><use xlink:href="#icon-star"></use></svg>
-                        </div>
-                    </div>
-                    <div class="media-body">
-                        <p>Ce implanturi folosim? - Implantul dentar Bredent este un implant dentar premium fabricat in Germania. Datorita structurii inovative a filetului acest implant are stabilitate perfecta si o rata de succes foarte mare.</p>
-                    </div>
-                </div>
-                
+                    
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
@@ -82,6 +65,14 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                     <div class="media-body">
                         <p>Este dureroasa interventia? - Interventia se realizeaza sub anestezie locala si este nedureroasa. Operatia este chiar mai usoara decat extractia unui dinte deoarece in cazul implanturilor dentare forma acestora este predictibila.</p>
                     </div>
+                </div>
+                
+                <p>Pentru a incepe tratamentul cu implanturi dentare trebuie mai intai sa va programati pentru o consultatie. Daca aveti deja o radiografie dentara mi-o puteti trimite pe email pentru a va analiza cazul in prealabil. Daca locuiti in strainatate este bine sa luati legatura din timp pentru a stabili cat mai exact planul de tratament si timpul necesar pentru indeplinirea acestuia. Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong>.</p>
+
+            </div>
+            <div class="col-sm-6">
+                <div class="col-sm-6">
+                    <img src="/img/team/irina-small.jpg" alt="consult cabinet stomatologic {{site.name}}">
                 </div>
             </div>
         </div>
