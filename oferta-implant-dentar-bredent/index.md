@@ -30,7 +30,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                 <br/><br/>
 
                 <p>
-                Sunt medic dentist cu experiență de peste 10 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
+                Sunt medic dentist cu experiență de peste 15 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
                 <p>
                 <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.facebook}}/reviews" target="_blank">Facebook</a>. 
                 </p>
