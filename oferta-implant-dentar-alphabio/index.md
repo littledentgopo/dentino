@@ -31,7 +31,7 @@ noindex: true
                 <br/><br/>
 
                 <p>
-                Sunt medic dentist cu experiență de peste 15 ani. Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
+                Sunt medic dentist cu experiență de peste 15 ani. In cabinetul {{site.name}} suntem printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
                 <p>
                 <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>. 
                 </p>
@@ -74,7 +74,7 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Cat dureaza interventia? - In mod normal plasarea implantului dentar se efectueaza intr-o singura sedinta de aproximativ o ora, iar lucrarea se realizeaza dupa 4-6 luni dupa ce implantul se osteointegreaza. Pentru edentatii totale exista si varianta de lucrare rapida Fast &amp; Fixed  cu implanturi si lucrare in 48 de ore.</p>
+                        <p>Cat dureaza interventia? - In mod normal plasarea implantului dentar se efectueaza intr-o singura sedinta de aproximativ o ora, iar lucrarea se realizeaza dupa 4-6 luni dupa ce implantul se osteointegreaza. </p>
                     </div>
                 </div>
                     
