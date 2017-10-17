@@ -31,21 +31,20 @@ noindex: true
                 <br/><br/>
 
                 <p>
-                Sunt medic dentist cu experiență de peste 15 ani. Cabinetul {{site.name}} este prin primele cabinete din București care a inceput sa promoveze tratamentul cu implanturi dentare de calitate la prețuri accesibile./p>
+                Sunt medic dentist cu experiență de peste 15 ani. Cabinetul {{site.name}} este prin primele cabinete din București care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
                 <p>
-                <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. <strong>Atenție</strong>, deoarece Alpha Bio este un implant popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Alpha Bio atunci ar trebui să primiți Alpha Bio, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului. 
+                <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>. 
                 </p>
                 
                 
                 <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.petronela.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.petronela.phone}}" style="color:#3dadb2">{{site.contact.petronela.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong>.</p>
-                <p> Mărturiile pacientilor le puteti citi pe pagina noastră de <a href="https://www.oferteimplantdentar.ro/parerile-pacientilor.html" target="_blank">pareri</a>.</p>
                 
             </div>
 
             <div class="col-sm-6">
                 <h3>De ce acest pret?</h3>
 
-                <p> Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale de calitate.</p>
+                
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
@@ -57,6 +56,17 @@ noindex: true
                     </div>
                 </div>
                 
+                <div class="media">
+                    <div class="media-left">
+                        <div class="boxed-icon">
+                            <svg class="icon icon-diamond"><use xlink:href="#icon-diamond"></use></svg>
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <p><strong>Ce implanturi folosim?</strong> - Folosim numai implanturi originale de la distribuitori autorizati. Atenție, deoarece Alpha Bio este un implant popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Alpha Bio atunci ar trebui să primiți Alpha Bio, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</p>
+                    </div>
+                </div>
+
                 <div class="media">
                     <div class="media-left">
                         <div class="boxed-icon">
