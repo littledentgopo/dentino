@@ -15,15 +15,8 @@ noindex: true
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Alpha Bio original sau fake?</h2>
+        <h2 class="section-title">Implant original sau fake?</h2>
         
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 250 euro">
-            </div>
-            <br/><br/><br/><br/>
-        </div>
-
         <div class="row">
             <br/><br/><br/><br/>
             <div class="col-sm-6">
@@ -48,8 +41,7 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                         <p><strong>Ce implanturi folosim?</strong>
-                <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>. 
+                         <p><strong>Ce implanturi folosim noi?</strong> - <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>. 
                 </p>
                         
                     </div>
@@ -62,9 +54,21 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p><strong>Ce implanturi folosesc unii medici?</strong> Atenție, deoarece Alpha Bio este un brand popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Nu sunt neaparat mai proaste dar de cele mai multe ori sunt mai ieftine, iar unii dentisti prefera sa le foloseasca pentru a castiga mai mult. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Alpha Bio atunci ar trebui să primiți Alpha Bio, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</p>
+                        <p><strong>Ce implanturi folosesc unii medici?</strong> - Atenție, deoarece Alpha Bio este un brand popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Nu sunt neaparat mai proaste dar de cele mai multe ori sunt mai ieftine, iar unii dentisti prefera sa le foloseasca pentru a castiga mai mult. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Alpha Bio atunci ar trebui să primiți Alpha Bio, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</p>
                     </div>
                 </div> 
+                
+                 <div class="media">
+                    <div class="media-left">
+                        <div class="boxed-icon">
+                            <svg class="icon icon-globe"><use xlink:href="#icon-globe"></use></svg>
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <p><strong>Cat costa un implant dentar?</strong> - Un implant dentar Alpha Bio costa la furnizor in jur 100 de euro. Un implant dentar "compatibil" costa in jur de 50 de euro. Majoritatea dentistilor pun implantul Alpha Bio cu 400 de euro. Sunt cativa in Bucuresti care au afisat un pret de 250 de euro, dar unii din ei pun de fapt alte implanturi. Aveti grija!!!</p>
+                    </div>
+                </div>
+                
 
             </div>
         </div>
