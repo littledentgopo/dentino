@@ -1,6 +1,6 @@
 # Site settings
 name: INODENT
-title: INODENT (fost IQDENT) | Inovație - Compasiune - Experiență  
+title: INODENT - ex IQDENT | Inovație - Compasiune - Experiență  
 description: Cabinet stomatologic specializat in tratamente cu implanturi dentare la prețuri accesibile. Ne gasiți pe Bdul Octavian Goga Nr 21, Sector 3, Bucuresti.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inodent.ro" # the name of your domain
@@ -10,7 +10,7 @@ logo_url: /logo.png
 hero: 
     hero_img: hero.jpg
     hero_title: INODENT
-    hero_subtitle: (fost IQDENT)
+    hero_subtitle: ex IQDENT
     hero_description: Inovație - Compasiune - Experiență  
 
 # Contact form
