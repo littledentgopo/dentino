@@ -5,6 +5,7 @@ description: Cabinet stomatologic specializat in tratamente cu implanturi dentar
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inodent.ro" # the name of your domain
 logo_url: /logo.png
+oldname: ex IQDENT
 
 # Hero
 hero: 
