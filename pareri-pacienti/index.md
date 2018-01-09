@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Parerile pacientilor INODENT
-description: Implanturi dentare la preturi accesibile. Tratamente inteligente si abordare prietenoasa.
+description: Implanturi dentare la preturi accesibile. Tratamente inovative si abordare prietenoasa.
 ---
 
 <!-- Start Hero -->
