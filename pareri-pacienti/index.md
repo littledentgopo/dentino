@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Parerile pacientilor IQdent
+title: Parerile pacientilor INODENT
 description: Implanturi dentare la preturi accesibile. Tratamente inteligente si abordare prietenoasa.
 ---
 

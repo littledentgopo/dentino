@@ -1,16 +1,17 @@
 # Site settings
-name: IQdent
-title: IQdent | Tratamente inteligente - Compasiune - Experiență  
+name: INODENT
+title: INODENT (fost IQDENT) | Inovație - Compasiune - Experiență  
 description: Cabinet stomatologic specializat in tratamente cu implanturi dentare la prețuri accesibile. Ne gasiți pe Bdul Octavian Goga Nr 21, Sector 3, Bucuresti.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iqdent.ro" # the name of your domain
+url: "https://inodent.ro" # the name of your domain
 logo_url: /logo.png
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: IQdent
-    hero_description: Tratamente inteligente - Compasiune - Experiență  
+    hero_title: INODENT
+    hero_subtitle: (fost IQDENT)
+    hero_description: Inovație - Compasiune - Experiență  
 
 # Contact form
 api_token: be4d9d546a4bc4f5fb27cd142eff4336
@@ -18,7 +19,7 @@ api_token: be4d9d546a4bc4f5fb27cd142eff4336
 # Contact info
 contact:
     phone: 0766 748 971
-    email: iqdent.ro@gmail.com
+    email: inodent.ro@gmail.com
     address: Bdul Octavian Goga, Nr 21, Bl M103, Sc 2, Ap 37, Bucuresti
     directions: "Punct de reper: intersectia Nerva Traian cu Octavian Goga, langa hotelul Double Tree"
     
@@ -46,15 +47,15 @@ map:
 
 
 # Social settings
-facebook: https://www.facebook.com/iqdent
-twitter: https://twitter.com/iqdent_ro
-instagram: https://www.instagram.com/iqdent.ro
+facebook: https://www.facebook.com/inodent.ro
+twitter: https://twitter.com/inodent_ro
+instagram: https://www.instagram.com/inodent.ro
 youtube: 
 skype: 
 feed: yes
 
 # Footer
-copyright: © 2015 IQdent - All rights reserved
+copyright: © 2015 INODENT - All rights reserved
 
 # Build settings
 markdown: kramdown
