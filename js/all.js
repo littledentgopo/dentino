@@ -9222,9 +9222,7 @@ $.fn.gmap3 = function () {
 
 
 (function($) {
-    if ($.url('?redirect')) {
-        $.notify("Hello World");
-        
+    if (location.search.indexOf('redirect')!=-1) {
+        $.notify("Ne-am schimbat numele din IQDent, dar am ramas la aceeasi adresa.");
     }
 })(jQuery);
-
