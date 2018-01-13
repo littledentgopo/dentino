@@ -1,7 +1,6 @@
 (function($) {
-    if ($.url('?redirect')) {
+    if (location.search.indexOf('redirect')!=-1) {
         $.notify("Hello World");
-        
     }
 })(jQuery);
 
