@@ -21,7 +21,12 @@
     {% endif %}
     <meta name="description" content="{{ site.description }}">
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+    
+    {% if page.isroot %}
+    <link rel="canonical" href="{{site.url}}" />
+    {% else %}
     <link rel="canonical" href="{{site.url}}{{page.url}}" />
+    {% endif %}
 
     <!-- Stylesheet -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
