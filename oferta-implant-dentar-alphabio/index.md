@@ -21,9 +21,10 @@ noindex: true
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 250 euro">
                 <br/><br/>
-                <p>
-                     Ofertă valabilă până pe {{site.offer.expiry}}. Dacă nu vă puteți programa în timpul valabilității ofertei ne puteți scrie un mesaj mai jos.                 
+                <p>                    
+                     Ofertă valabilă până pe {{site.offer.expiry}}. 
                 </p>
+                <p>Dacă nu vă puteți programa în timpul valabilității ofertei ne puteți scrie un mesaj mai jos.</p>
 
             </div>
             <br/><br/>
