@@ -19,11 +19,12 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/promo/implant-dentar-bredent-400.jpg" alt="Implant dentar Bredent pret 400 euro">
+                <br/><br/>
+                <p>
+                    Oferta valabila pana la {{site.offer.expiry}}.
+                </p>
+
             </div>
-            <br/><br/>
-            <p>
-                Oferta valabila pana la {{site.offer.expiry}}.
-            </p>
             <br/><br/>
         </div>
 
