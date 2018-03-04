@@ -51,7 +51,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Ce implanturi folosim? - <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>.
+                        <p>Ce implanturi folosim? - <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant premium produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>.
                         </p>
                     </div>
                 </div>
@@ -113,6 +113,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
         </div>
     </div>
 </div>
+
 <!-- End About -->
 
 
