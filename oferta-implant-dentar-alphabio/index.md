@@ -20,11 +20,12 @@ noindex: true
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 250 euro">
+                <br/><br/>
+                <p>
+                    Oferta valabila pana pe {{site.offer.expiry}}.
+                </p>
+
             </div>
-            <br/><br/>
-            <p>
-                Oferta valabila pana la {{site.offer.expiry}}.
-            </p>
             <br/><br/>
         </div>
 
