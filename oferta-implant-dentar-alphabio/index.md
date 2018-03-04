@@ -33,11 +33,11 @@ noindex: true
                 <p>
                 Sunt medic dentist cu experiență de peste 15 ani. Cabinetul {{site.name}} este prin primele cabinete din București care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
                 <p>
-                <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>. 
+                <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a>. 
                 </p>
                 
                 
-                <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.petronela.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.petronela.phone}}" style="color:#3dadb2">{{site.contact.petronela.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong>.</p>
+                <p>Ne puteti contacta telefonic <a href="tel:{{ site.contact.petronela.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact .phone}}</a></strong> sau pe <strong><a href="{{ site.contact.fb_messages }}" target="_blank">Facebook</a></strong>.</p>
                 
             </div>
 

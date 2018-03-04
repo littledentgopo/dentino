@@ -34,7 +34,7 @@ description: Implanturi dentare la preturi accesibile. Tratamente inovative si a
             
             
             <div class="row">
-                <small>Citeste mai multe review-uri pe pagina de <a href="https://www.facebook.com/dririnaalexandru/reviews" style="color:#365899">Facebook</a></small>
+                <small>Citeste mai multe review-uri pe pagina de <a href="{{site.contact.fb_reviews}}" style="color:#365899">Facebook</a></small>
             </div>
         
             <div class="row">

@@ -30,13 +30,13 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                 <br/><br/>
 
                 <p>
-                Sunt medic dentist cu experiență de peste 15 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
+                 Sunt medic dentist cu experientă de peste 15 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentiști din București care au început să promoveze tratamentul cu implanturi dentare de calitate la prețuri accesibile. Am redus prețul manoperei considerabil pentru a trata mai mulți pacienți dar în același timp am păstrat în ofertă un implant de calitate.</p>
                 <p>
                  <strong>Atenție</strong>, alegeți cu grijă atât medicul cât și implanturile folosite. Există și implanturi mai ieftine (unele mai bune altele mai proaste), există și medici care folosesc implanturi "compatibile" cu un anumit brand dar nu folosesc originalul (fac asta pentru a câștiga mai mult). Interesați-vă înainte de a face o alegere și nu acceptați compromisuri de acest gen. Fiecare implant original este însoțit de o serie pe care o puteți cere dentistului. Nu acceptați să vi se pună alt implant decât cel pe care îl plătiti.  
                 </p>
                 
                 
-                <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.facebook }}" target="_blank">Facebook</a></strong>.</p>
+                <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.contact.fb_messages }}" target="_blank">Facebook</a></strong>.</p>
                 
             </div>
 
@@ -51,7 +51,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Ce implanturi folosim? - <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant premium produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>.
+                        <p>Ce implanturi folosim? - <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant premium produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a>.
                         </p>
                     </div>
                 </div>

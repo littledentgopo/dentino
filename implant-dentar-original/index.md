@@ -41,7 +41,7 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                         <p><strong>Ce implanturi folosim noi?</strong> - <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>. 
+                         <p><strong>Ce implanturi folosim noi?</strong> - <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a>. 
                 </p>
                         
                     </div>
