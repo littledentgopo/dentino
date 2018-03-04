@@ -32,7 +32,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                 <p>
                 Sunt medic dentist cu experiență de peste 15 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentisti din Bucuresti care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
                 <p>
-                <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>. 
+                 <strong>Atenție</strong>, alegeți cu grijă atât medicul cât și implanturile folosite. Există și implanturi mai ieftine (unele mai bune altele mai proaste), există și medici care folosesc implanturi "compatibile" cu un anumit brand dar nu folosesc originalul (fac asta pentru a câștiga mai mult). Interesați-vă înainte de a face o alegere și nu acceptați compromisuri de acest gen. Fiecare implant original este însoțit de o serie pe care o puteți cere dentistului. Nu acceptați să vi se pună alt implant decât cel pe care îl plătiti.  
                 </p>
                 
                 
@@ -43,6 +43,18 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
             <div class="col-sm-6">
                 <h3>Alege un implant de calitate!</h3>
 
+                
+                 <div class="media">
+                    <div class="media-left">
+                        <div class="boxed-icon">
+                            <svg class="icon icon-star"><use xlink:href="#icon-star"></use></svg>
+                        </div>
+                    </div>
+                    <div class="media-body">
+                        <p>Ce implanturi folosim? - <a href="http://www.bredent-medical.ro/bluesky-implant-dentar.html" target="_blank">Bredent</a> este un implant produs in Germania, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.irina.facebook}}/reviews" target="_blank">Facebook</a>.
+                        </p>>
+                    </div>
+                </div>
                 
                 <div class="media">
                     <div class="media-left">
