@@ -33,7 +33,10 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
             <br/><br/><br/><br/>
             <div class="col-sm-6">
                 <img src="/img/team/irina-about.jpg" alt="consult cabinet stomatologic {{site.name}}">
-                <br/><br/>
+                <br/>
+                <br/>
+                <h3>Dr Irina Alexandru</h3>
+
 
                 <p>
                  Sunt medic dentist cu experientă de peste 15 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentiști din București care au început să promoveze tratamentul cu implanturi dentare de calitate la prețuri accesibile. Am redus prețul manoperei considerabil pentru a trata mai mulți pacienți dar în același timp am păstrat în ofertă un implant de calitate.</p>
