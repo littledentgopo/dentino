@@ -146,6 +146,8 @@ table#pricesTable del {
     float: left;
     margin-right: 20px;
     border-radius: 50%;
+    height: 100px;
+    width: 100px;
 }
 
 /* Increase the font-size of a span element */
@@ -164,5 +166,7 @@ table#pricesTable del {
     margin: auto;
     float: none;
     display: block;
+    height: 50px;
+    width: 50px;
   }
 }
