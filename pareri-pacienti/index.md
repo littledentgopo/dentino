@@ -22,7 +22,7 @@ description: Implanturi dentare la preturi accesibile. Tratamente inovative si a
                     <div class="container-testimonial">
                         <a href="{{ testimonial.link}}" class="testimonial-link"><img  rel="nofollow" src="https://graph.facebook.com/{{ testimonial.fbid }}/picture?type=normal"/> {{ testimonial.name }}</a>
                         <p>{{ testimonial.title }}</p>
-                        <p>{{ testimonial.description }}</p>
+                        <p>{{ testimonial.description }} <a ref="{{ testimonial.link}}">&hellip;</a> </p>
                     </div>
                 {% endfor %}
             </div>
