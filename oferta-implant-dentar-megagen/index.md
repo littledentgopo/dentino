@@ -19,7 +19,7 @@ noindex: true
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/promo/implant-dentar-megagen-anyridge.jpg" alt="Implant dentar Bredent pret 400 euro">
+                <img class="img-responsive" src="/img/promo/implant-dentar-megagen-anyridge-pret.jpg" alt="Implant dentar Megagen pret 400 euro">
                 <br/><br/>
                 <p>                    
                      Ofertă valabilă până pe {{site.offer.expiry}}. 
