@@ -61,7 +61,7 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Ce implanturi folosim? - <a href="https://www.megagen.ro/implants/anyridge/features/" target="_blank">Bredent</a> este un implant premium produs in Coreea de Sud, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a>.
+                        <p>Ce implanturi folosim? - <a href="https://www.megagen.ro/implants/anyridge/features/" target="_blank">Megagen</a> este un implant premium produs in Coreea de Sud, de un producator renumit la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a>.
                         </p>
                     </div>
                 </div>
