@@ -5,7 +5,6 @@ description: Cabinet stomatologic specializat in tratamente cu implanturi dentar
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inodent.ro" # the name of your domain
 logo_url: /logo.png
-oldname: ex IQDENT
 
 # Hero
 hero: 
@@ -26,14 +25,14 @@ contact:
     fb_reviews: https://www.facebook.com/dririnaalexandru/reviews
     
     irina:
-        phone: 0766 748 971
+        phone: 0754 523 624
         facebook : https://www.facebook.com/dririnaalexandru
         
     petronela:
-        phone: 0721 502 570
+        phone: 0754 523 624
         
 offer:
-    expiry: 31 Martie 2019
+    expiry: 30 Aprilie 2019
 
 # Opening hours
 monday_friday: 9:00 – 18:00
