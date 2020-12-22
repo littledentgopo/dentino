@@ -1,28 +1,26 @@
+<!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
 <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId            : '1678638095724206',
-      autoLogAppEvents : true,
-      xfbml            : true,
-      version          : 'v2.12'
-    });
-  };
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v9.0'
+          });
+        };
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/ro_RO/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/ro_RO/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
 </script>
 
+<!-- Your Chat Plugin code -->
 <div class="fb-customerchat"
+        attribution=setup_tool
         page_id="1284293761656651"
-        ref=""
-        logged_in_greeting="Buna ziua! Scrieti-ne un mesaj! Raspundem destul de repede ;)"
-        logged_out_greeting="Buna ziua! Ne puteti scrie un mesaj pe Facebook."
-     >
+  logged_in_greeting="Buna. Scrie-ne un mesaj si iti vom raspunde cat de curand. Echipa INODent."
+  logged_out_greeting="Buna. Scrie-ne un mesaj si iti vom raspunde cat de curand. Echipa INODent.">
 </div>
-    
