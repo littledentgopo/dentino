@@ -20,6 +20,10 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 250 euro">
             </div>
+            <p><
+            strong>Actualizare 2021: pretul unui implant Alpha Bio este 300 de euro</strong>
+            </p>
+
         </div>
 
     </div>
