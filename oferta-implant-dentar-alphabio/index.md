@@ -23,6 +23,7 @@ noindex: true
                 <br/><br/>
                 <p>                    
                      Ofertă valabilă până pe {{site.offer.expiry}}. 
+                     <strong>Actualizare 2021: pretul unui implant Alpha Bio este 300 de euro</strong>
                 </p>
                 <p>Dacă nu vă puteți programa în timpul valabilității ofertei ne puteți scrie un mesaj mai jos.</p>
 
