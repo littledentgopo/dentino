@@ -15,7 +15,7 @@ noindex: true
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Oferta implant dentar Alpha Bio <br/> pret 250 euro redus cu 40%</h2>
+        <h2 class="section-title">Oferta implant dentar Alpha Bio <br/> pret 300 euro redus cu 40%</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
