@@ -29,12 +29,16 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
 
     </div>
     
+    <br/>
+    <br/>
+    <br/>
+
     <div class="container-fluid">
-        <h2 class="section-title">Coroana zirconiu<br/> pret 600 ron redus cu 40%</h2>
+        <h2 class="section-title">Coroana zirconiu<br/> pret 900 ron redus cu 40%</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/promo/coroana-zirconiu-600.jpg" alt="Coroana zirconiu 600 de ron">
+                <img class="img-responsive" src="/img/promo/coroana-zirconiu-600.jpg" alt="Coroana zirconiu 900 de ron">
             </div>
         </div>
 
