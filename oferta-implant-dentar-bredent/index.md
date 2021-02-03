@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oferta implant dentar premium pret 400 de euro. Bont protetic inclus, consultatie gratuita.
+title: Oferta implant dentar premium pret 500 de euro. Bont protetic inclus, consultatie gratuita.
 description: Implant dentar de calitate Bredent fabricat in Germania, pret accesibil. Fara costuri ascunse, bontul protetic, consultatia sunt incluse in pret.
 ---
 
@@ -14,7 +14,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Ofertă implant dentar premium Bredent <br/> preț 400 euro - redus cu 30%</h2>
+        <h2 class="section-title">Ofertă implant dentar premium Bredent <br/> preț 500 euro - redus cu 30%</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
