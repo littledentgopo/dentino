@@ -31,7 +31,24 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
     
     <br/>
     <br/>
+    
+        <div class="container-fluid">
+        <h2 class="section-title">Oferta implant dentar Bredent<br/> pret 500 euro redus cu 30%</h2>
+        
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                <img class="img-responsive" s src="/img/promo/implant-dentar-bredent-500.jpg" alt="Implant dentar Bredent pret 500 euro">
+                <p>
+            </p>
+            </div>
+            
+
+        </div>
+
+    </div>
     <br/>
+    <br/>
+
 
     <div class="container-fluid">
         <h2 class="section-title">Coroana zirconiu<br/> pret 900 ron redus cu 40%</h2>
