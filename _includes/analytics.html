@@ -6,4 +6,22 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-105983640-1');
+  gtag('config', 'AW-966821740');
 </script>
+
+
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-966821740/RHCrCIrLitACEOyOgs0D',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
