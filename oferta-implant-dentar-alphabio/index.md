@@ -35,8 +35,10 @@ noindex: true
             <br/><br/><br/><br/>
             <div class="col-sm-6">
                 <img src="/img/team/petronela.jpg" alt="consult cabinet stomatologic {{site.name}}">
-                <br/><br/>
-
+                <br/>
+                <br/>
+                <h3>Dr Petronela Poenaru</h3>
+                
                 <p>
                 Sunt medic dentist cu experiență de peste 15 ani. Cabinetul {{site.name}} este prin primele cabinete din București care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
                 <p>
