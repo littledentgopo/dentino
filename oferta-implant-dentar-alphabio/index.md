@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oferta implant dentar Alpha Bio pret 250 de euro. Bont protetic inclus, consultatie gratuita.
+title: Oferta implant dentar Alpha Bio pret 300 de euro. Bont protetic inclus, consultatie gratuita.
 description: Implant dentar de calitate Alpha Bio, pret accesibil. Fara costuri ascunse, bontul protetic, consultatia sunt incluse in pret.
 noindex: true
 ---
@@ -19,7 +19,7 @@ noindex: true
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 250 euro">
+                <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 300 euro">
                 <br/><br/>
                 <p>                    
                      Ofertă valabilă până pe {{site.offer.expiry}}. 
@@ -70,7 +70,7 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p><strong>Ce implanturi folosim?</strong> - Folosim numai implanturi originale de la distribuitori autorizati. Atenție, deoarece Alpha Bio este un implant popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Aveți dreptul să stiți exact ce implant dentar vi se introduce in organism, dacă plătiți pentru Alpha Bio atunci ar trebui să primiți Alpha Bio, nu ceva mai ieftin. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</p>
+                        <p><strong>Ce implanturi folosim?</strong> - Folosim numai implanturi originale de la distribuitori autorizati. Atenție, deoarece Alpha Bio este un implant popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</p>
                     </div>
                 </div>
 
