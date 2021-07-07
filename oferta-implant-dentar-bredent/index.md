@@ -39,7 +39,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
 
 
                 <p>
-                 Sunt medic dentist cu experientă de peste 15 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentiști din București care au început să promoveze tratamentul cu implanturi dentare de calitate la prețuri accesibile. Am redus prețul manoperei considerabil pentru a trata mai mulți pacienți dar în același timp am păstrat în ofertă un implant de calitate.</p>
+                 Sunt medic dentist cu experientă de peste 15 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentiști din București care au început să promoveze tratamentul cu implanturi dentare de calitate la prețuri accesibile. Am redus prețul manoperei considerabil pentru a trata mai mulți pacienți dar în același timp am păstrat în ofertă un implant de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a> sau <a href="{{site.contact.gg_reviews}}" target="_blank">Google</a>. </p>
                 <p>
                  <strong>Atenție</strong>, alegeți cu grijă atât medicul cât și implanturile folosite. Există și medici care folosesc implanturi "compatibile" cu un anumit brand dar nu folosesc originalul. Fiecare implant original este însoțit de o serie pe care o puteți cere dentistului.
                 </p>
