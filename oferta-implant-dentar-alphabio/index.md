@@ -34,13 +34,14 @@ noindex: true
         <div class="row">
             <br/><br/><br/><br/>
             <div class="col-sm-6">
-                <img src="/img/team/petronela.jpg" alt="consult cabinet stomatologic {{site.name}}">
+                <img src="/img/team/irina_petro.jpg" alt="consult cabinet stomatologic {{site.name}}">
                 <br/>
                 <br/>
-                <h3>Dr Petronela Poenaru</h3>
-                
+                <h3>Dr Petronela Poenaru - Dr Irina Alexandru</h3>
+
                 <p>
-                Sunt medic dentist cu experiență de peste 15 ani. Cabinetul {{site.name}} este prin primele cabinete din București care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile.</p>
+                 Suntem dentiste cu experientă de peste 15 ani. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei pentru a trata mai mulți pacienți dar în același timp am păstrat în ofertă un implant de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a> sau <a href="{{site.contact.gg_reviews}}" target="_blank">Google</a>. </p>
+                
                 <p>
                 <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a> sau <a href="{{site.contact.gg_reviews}}" target="_blank">Google</a>. 
                 </p>
