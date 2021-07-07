@@ -35,10 +35,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                 <img src="/img/team/irina_petro.jpg" alt="consult cabinet stomatologic {{site.name}}">
                 <br/>
                 <br/>
-                <h3>Dr Irina Alexandru</h3>
-                <h3>Dr Petronela Poenaru</h3>
-
-
+                <h3>Dr Petronela Poenaru - Dr Irina Alexandru</h3>
 
                 <p>
                  Suntem dentiste cu experientă de peste 15 ani. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei pentru a trata mai mulți pacienți dar în același timp am păstrat în ofertă un implant de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a> sau <a href="{{site.contact.gg_reviews}}" target="_blank">Google</a>. </p>
