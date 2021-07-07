@@ -40,7 +40,7 @@ noindex: true
                 <h3>Dr Petronela Poenaru</h3>
                 
                 <p>
-                Sunt medic dentist cu experiență de peste 15 ani. Cabinetul {{site.name}} este prin primele cabinete din București care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei considerabil pentru a trata mai multi pacienți dar in același timp am păstrat in ofertă un implant de calitate.</p>
+                Sunt medic dentist cu experiență de peste 15 ani. Cabinetul {{site.name}} este prin primele cabinete din București care au inceput sa promoveze tratamentul cu implanturi dentare de calitate la preturi accesibile.</p>
                 <p>
                 <a href="http://www.artisbiotech.ro/produse/tip/alpha-bio/" target="_blank">Alpha Bio</a> este un implant produs de Nobel Biocare, unul din cei mai importanți producatori de implanturi la nivel internațional. Pentru a garanta siguranța tratamentului lucrăm doar cu importatori autorizați și cu implanturi originale. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a>. 
                 </p>
