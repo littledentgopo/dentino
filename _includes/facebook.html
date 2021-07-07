@@ -1,21 +1,5 @@
-<!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
-<script>
-        window.fbAsyncInit = function() {
-          FB.init({
-            xfbml            : true,
-            version          : 'v9.0'
-          });
-        };
-
-        (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/ro_RO/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
-</script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v11.0&appId=176812056379161&autoLogAppEvents=1" nonce="IURa0hqd"></script>
 
 <!-- Your Chat Plugin code -->
 <div class="fb-customerchat"
