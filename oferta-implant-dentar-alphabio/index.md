@@ -115,6 +115,13 @@ noindex: true
             </div>
         </div>
         
+         <div class="row">
+                <div class="col-lg-12 text-center">
+                    {% include testimonials.html %}
+                </div>
+
+        </div>
+        
         <div class="row">
                 <div class="col-lg-12 text-center">
                     {% include comments.html %}
