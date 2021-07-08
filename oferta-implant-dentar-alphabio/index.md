@@ -40,7 +40,7 @@ noindex: true
                 <h3>Dr Petronela Poenaru - Dr Irina Alexandru</h3>
 
                 <p>
-                 Suntem dentiste cu experientă de peste 15 ani in stomatologie generală si implantologie. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei astfel incat cat mai mulți pacienți sa aibă access la acest tratament, dar în același timp am păstrat în ofertă un implant de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a> sau <a href="{{site.contact.gg_reviews}}" target="_blank">Google</a>. 
+                 Suntem dentiste cu experientă de peste 15 ani in stomatologie generală si implantologie. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei astfel incat cat mai mulți pacienți sa aibă access la acest tratament, dar în același timp am păstrat în ofertă un implant de calitate. 
                 </p>
                 
                 <p>
