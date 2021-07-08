@@ -38,11 +38,11 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                 <h3>Dr Petronela Poenaru - Dr Irina Alexandru</h3>
 
                 <p>
-                 Suntem dentiste cu experientă de peste 15 ani in stomatologie generală si implantologie. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei astfel incat cat mai mulți pacienți sa aibă access la acest tratament, dar în același timp am păstrat în ofertă un implant de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a> sau <a href="{{site.contact.gg_reviews}}" target="_blank">Google</a>. 
+                 Suntem dentiste cu experiență de peste 15 ani in stomatologie generală si implantologie. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei astfel incat cat mai mulți pacienți sa aibă access la acest tratament, dar în același timp am păstrat în ofertă un implant de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a> sau <a href="{{site.contact.gg_reviews}}" target="_blank">Google</a>. 
                 </p>
                 
                 
-                <p>Ma puteti contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.contact.fb_messages }}" target="_blank">Facebook</a></strong>.</p>
+                <p>Ne puteți contacta telefonic <a href="tel:{{ site.contact.phone }}" style="color:#3dadb2"><svg class="icon icon-phone"><use xlink:href="#icon-phone"></use></svg></a><strong><a href="tel:{{site.contact.phone}}" style="color:#3dadb2">{{site.contact.phone}}</a></strong> sau pe <strong><a href="{{ site.contact.fb_messages }}" target="_blank">Facebook</a></strong>.</p>
                 
             </div>
 
