@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Oferta implant dentar Alpha Bio pret 300 de euro. Bont protetic inclus, consultatie gratuita.
-description: Implant dentar de calitate Alpha Bio, pret accesibil. Fara costuri ascunse, bontul protetic, consultatia sunt incluse in pret.
+title: Oferta implant dentar Bucuresti pret 300 de euro. Bont protetic inclus, consultatie online.
+description: Implant dentar Bucuresti pret accesibil. Fara costuri ascunse, bontul protetic sunt incluse in pret.
 noindex: true
 ---
 
