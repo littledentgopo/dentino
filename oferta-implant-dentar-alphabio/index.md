@@ -52,7 +52,7 @@ noindex: true
             </div>
 
             <div class="col-sm-6">
-                <h3>De ce acest pret?</h3>
+                <h3>Cat costa un implant dentar?</h3>
 
                 
                 <div class="media">
@@ -62,7 +62,7 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Care este pretul total? - Oferta de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care costa 150 de euro. Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
+                        <p>Care e pretul total? - Oferta de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care costa 150 de euro. Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
                     </div>
                 </div>
                 
