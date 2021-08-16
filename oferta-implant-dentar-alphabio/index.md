@@ -62,9 +62,9 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Care e pretul total? - Oferta de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care costa 150 de euro. Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
+                        <p>Care e pretul total? - Oferta de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care are un pret de 150-200 de euro, in functie de material.  Astfel, pretul total pentru un dinte este de 450 de euro (300 implantul+bonturile, 150 coronita). Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
                         
-                     <p><strong>Atenție, exista mai multe moduri in care sunt prezentate preturile implanturilor. Unele cabinete au implanturi la un pret de 250 de euro dar facturezeaza separat bontul protetic si cel de vindecare, ajungand la un pret mai mare. Alte factureaza diferite operatiuni standard precum dezvelirea de implant. Incercati sa aflati un pret total pentru un dinte. In cazul nostru pretul total este de 450 de euro.</strong></p>
+                     <p><strong>Atenție, exista mai multe moduri in care sunt prezentate preturile implanturilor. Unele cabinete au implanturi la un pret de 200-250 de euro dar facturezeaza separat bontul protetic si cel de vindecare, ajungand la un pret final mai mare. Alte factureaza diferite operatiuni standard precum dezvelirea de implant. Incercati sa aflati un pret total pentru un dinte.</strong></p>
                     </div>
                 </div>
                 
