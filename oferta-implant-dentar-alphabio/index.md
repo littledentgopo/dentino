@@ -75,7 +75,7 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Ce implanturi folosim? - Folosim numai implanturi originale de la distribuitori autorizati. Alpha Nio este un implant foarte <a href="https://www.oferteimplantdentar.ro/blog/pret-implant-dentar-alphabio.html#post">popular</a> in Bucuresti. Este un implant care a fost creat initial in Israel dar a fost cumparat in urma cu mai mult de 10 ani de gigantul americano-elvetian Nobel Biocare.
+                        <p>Ce implanturi folosim? - Folosim numai implanturi originale de la distribuitori autorizati. Alpha Bio este un implant foarte <a href="https://www.oferteimplantdentar.ro/blog/pret-implant-dentar-alphabio.html#post">popular</a> in Bucuresti. Este un implant care a fost creat initial in Israel dar a fost cumparat in urma cu mai mult de 10 ani de gigantul americano-elvetian Nobel Biocare.
                         </p>
                             
                        <p><strong>Atenție, deoarece Alpha Bio este un implant popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</strong></p>
