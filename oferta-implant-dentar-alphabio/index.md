@@ -64,7 +64,7 @@ noindex: true
                     <div class="media-body">
                         <p>Care e pretul total? - Oferta de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care costa 150 de euro. Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
                         
-                     <p><b>Atenție, exista mai multe moduri in care sunt prezentate preturile implanturilor. Unele cabinete au implantul Alpha-Bio la un pret de 250 de euro dar facturezeaza separat bontul protetic si cel de vindecare, ajungand la un pret mai mare. Alte factureaza diferite operatiuni standard ca dezvelirea de implant. Incercati sa aflati un pret total pentru un dinte. In cazul nostru pretul total este de 450 de euro.</b></p>
+                     <p><strong>Atenție, exista mai multe moduri in care sunt prezentate preturile implanturilor. Unele cabinete au implantul Alpha-Bio la un pret de 250 de euro dar facturezeaza separat bontul protetic si cel de vindecare, ajungand la un pret mai mare. Alte factureaza diferite operatiuni standard ca dezvelirea de implant. Incercati sa aflati un pret total pentru un dinte. In cazul nostru pretul total este de 450 de euro.</strong></p>
                     </div>
                 </div>
                 
@@ -75,10 +75,10 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p><strong>Ce implanturi folosim?</strong> - Folosim numai implanturi originale de la distribuitori autorizati. Alpha Nio este un implant foarte <a href="https://www.oferteimplantdentar.ro/blog/pret-implant-dentar-alphabio.html#post">popular</a> in Bucuresti. Este un implant care a fost creat initial in Israel dar a fost cumparat in urma cu mai mult de 10 ani de gigantul americano-elvetian Nobel Biocare.
+                        <p>Ce implanturi folosim? - Folosim numai implanturi originale de la distribuitori autorizati. Alpha Nio este un implant foarte <a href="https://www.oferteimplantdentar.ro/blog/pret-implant-dentar-alphabio.html#post">popular</a> in Bucuresti. Este un implant care a fost creat initial in Israel dar a fost cumparat in urma cu mai mult de 10 ani de gigantul americano-elvetian Nobel Biocare.
                         </p>
                             
-                       <p><b>Atenție, deoarece Alpha Bio este un implant popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</b></p>
+                       <p><strong>Atenție, deoarece Alpha Bio este un implant popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</strong></p>
                     </div>
                 </div>
 
