@@ -70,15 +70,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
 
         <div class="row">
                 <div class="col-lg-12 text-center">
-                    {% include comments.html %}
-                </div>
-            
-                <div class="col-lg-12 text-center">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdGj_dDUadxv-T1pYya-4G5VHy26H5r9VB_5qxPMy6JDueqZw/viewform?embedded=true" width="640" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>               
-                </div>
-            
-                <div class="col-lg-12 text-center">
-                <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSnZ4w8_lzgbhhV97ZYr-P4GlEJgI91NSYCEUe18XtZKucRHY09FO8VNlK7IhMlr-5cOCRULHG7S_Qy/pubhtml?gid=1685464644&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+                    {% include dcomments.html %}
                 </div>
         </div>
     </div>
