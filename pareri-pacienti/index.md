@@ -33,7 +33,7 @@ description: Implanturi dentare la preturi accesibile. Tratamente inovative si a
             </div>
         
             <div class="row">
-            <div class="fb-page" data-href="https://www.facebook.com/dririnaalexandru/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/dririnaalexandru/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/dririnaalexandru/">{{site.name}} - Dr Irina Alexandru</a></blockquote></div>
+            <div class="fb-page" data-href="https://www.facebook.com/inodent.ro/" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/inodent.ro/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/inodent.ro/">{{site.name}} - Dr Irina Alexandru</a></blockquote></div>
             </div>
         </div>
     </div>
