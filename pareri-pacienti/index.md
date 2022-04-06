@@ -27,6 +27,9 @@ description: Implanturi dentare la preturi accesibile. Tratamente inovative si a
                 {% endfor %}
             </div>
             
+            <div class="row">
+                 <img class="img-responsive" src="/img/gallery/large/greviews1.png" alt="Implant dentar Alpha Bio pret 250 euro">
+            </div>
             
             <div class="row">
                 <small>Citeste mai multe review-uri pe pagina de <a href="{{site.contact.fb_reviews}}" style="color:#365899">Facebook</a></small>
