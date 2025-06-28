@@ -15,7 +15,7 @@ noindex: true
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Oferta implant dentar Alpha Bio</h2>
+        <h2 class="section-title">Implant dentar Alpha Bio</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -35,7 +35,7 @@ noindex: true
                 <h3>Dr Petronela Poenaru - Dr Irina Alexandru</h3>
 
                 <p>
-                 Suntem dentiste cu experientă de peste 15 ani in stomatologie generală si implantologie. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei astfel incat cat mai mulți pacienți sa aibă access la acest tratament, dar în același timp am păstrat în ofertă un implant de calitate. 
+                 Suntem dentiste cu experientă de peste 20 ani in stomatologie generală si implantologie. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei astfel incat cat mai mulți pacienți sa aibă access la acest tratament, dar în același timp am păstrat în ofertă un implant de calitate. 
                 </p>
                 
                 <p>
@@ -72,8 +72,6 @@ noindex: true
                     <div class="media-body">
                         <p>Ce implanturi folosim? - Folosim numai implanturi originale de la distribuitori autorizati. Alpha Bio este un implant foarte <a href="https://www.oferteimplantdentar.ro/blog/pret-implant-dentar-alphabio.html#post">popular</a> in Bucuresti. Este un implant care a fost creat initial in Israel dar a fost cumparat in urma cu mai mult de 10 ani de gigantul americano-elvetian Nobel Biocare, fiind imbunatatit si perfectat pe parcursul anilor.
                         </p>
-                            
-                       <p><strong>Atenție, deoarece Alpha Bio este un implant popular au apărut și implanturi care sunt compatibile cu platforma Alpha Bio. Intrebați-vă dentistul ce brand folosește și asigurați-vă că primiți un certificat cu numele și seria implantului.</strong></p>
                     </div>
                 </div>
 
