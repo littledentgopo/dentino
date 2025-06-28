@@ -15,17 +15,12 @@ noindex: true
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Ofertă implant dentar premium Megagen<br/> preț 400 euro - redus cu 30%</h2>
+        <h2 class="section-title">Implant dentar premium Megagen<br/> preț 400 euro</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/promo/implant-dentar-megagen-anyridge-pret.jpg" alt="Implant dentar Megagen pret 400 euro">
-                <br/><br/>
-                <p>                    
-                     Ofertă valabilă până pe {{site.offer.expiry}}. 
-                </p>
-                <p>Dacă nu vă puteți programa în timpul valabilității ofertei ne puteți scrie un mesaj mai jos.</p>
-
+                <br/>
             </div>
             <br/><br/>
         </div>
@@ -40,7 +35,7 @@ noindex: true
 
 
                 <p>
-                 Sunt medic dentist cu experientă de peste 15 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentiști din București care au început să promoveze tratamentul cu implanturi dentare de calitate la prețuri accesibile. Am redus prețul manoperei considerabil pentru a trata mai mulți pacienți dar în același timp am păstrat în ofertă un implant de calitate.</p>
+                 Sunt medic dentist cu experientă de peste 25 ani (dintre care 2 ani în Marea Britanie). Sunt printre primii dentiști din București care au început să promoveze tratamentul cu implanturi dentare de calitate la prețuri accesibile. Am redus prețul manoperei considerabil pentru a trata mai mulți pacienți dar în același timp am păstrat în ofertă un implant de calitate.</p>
                 <p>
                  <strong>Atenție</strong>, alegeți cu grijă atât medicul cât și implanturile folosite. Există și implanturi mai ieftine (unele mai <a href="https://www.inodent.ro/oferta-implant-dentar-alphabio/" target="_blank">bune</a>, altele mai proaste), există și medici care folosesc implanturi "compatibile" cu un anumit brand dar nu folosesc originalul (fac asta pentru a câștiga mai mult). Interesați-vă înainte de a face o alegere și nu acceptați compromisuri de acest gen. Fiecare implant original este însoțit de o serie pe care o puteți cere dentistului. Nu acceptați să vi se pună alt implant decât cel pe care îl plătiti.  
                 </p>
@@ -73,7 +68,7 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Care este pretul total? - Oferta de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care costa 150 de euro. Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
+                        <p>Care este pretul total? - Pachetul de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care costa 200 de euro. Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
                     </div>
                 </div>
                 
