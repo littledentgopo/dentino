@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oferta implant dentar Bucuresti pret 300 de euro. Bont protetic inclus, consultatie online.
+title: Implant dentar Bucuresti pret 300 de euro. Bont protetic inclus, consultatie online.
 description: Implant dentar Bucuresti pret accesibil. Fara costuri ascunse, bontul protetic sunt incluse in pret.
 noindex: true
 ---
@@ -15,17 +15,13 @@ noindex: true
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Oferta implant dentar Alpha Bio <br/> pret 300 euro redus cu 40%</h2>
+        <h2 class="section-title">Oferta implant dentar Alpha Bio</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 300 euro">
-                <br/><br/>
-                <p>                    
-                     Ofertă valabilă până pe {{site.offer.expiry}}. 
-                </p>
-                <p>Dacă nu vă puteți programa în timpul valabilității ofertei ne puteți scrie un mesaj mai jos.</p>
-
+                <br/>
+    
             </div>
             <br/><br/>
         </div>
@@ -62,9 +58,8 @@ noindex: true
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Care e pretul total? - Oferta de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care are un pret de 150-200 de euro, in functie de material.  Astfel, pretul total pentru un dinte este de 450 de euro (300 implantul+bonturile, 150 coronita). Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
+                        <p>Care e pretul total? - Packetul de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care are un pret de 200-250 de euro, in functie de material.  Astfel, pretul total pentru un dinte este de 500 de euro (300 implantul+bonturile, 200 coronita). Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
                         
-                     <p><strong>Atenție, exista mai multe moduri in care sunt prezentate preturile implanturilor. Unele cabinete au implanturi la un pret de 200-250 de euro dar facturezeaza separat bontul protetic si cel de vindecare, ajungand la un pret final mai mare. Altele factureaza diferite operatiuni standard precum dezvelirea de implant. Incercati sa aflati un pret total pentru un dinte.</strong></p>
                     </div>
                 </div>
                 
