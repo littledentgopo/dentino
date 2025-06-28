@@ -19,7 +19,7 @@ noindex: true
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 300 euro">
+                <img class="img-responsive" src="/img/promo/implant-dentar-pret-oferta.jpg" alt="Implant dentar Alpha Bio pret 300 euro">
                 <br/>
     
             </div>
