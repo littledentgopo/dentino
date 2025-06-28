@@ -1,24 +1,21 @@
 ---
 layout: default
-title: Oferta implant dentar premium pret 400 de euro. Bont protetic inclus, consultatie gratuita.
+title: Oferta implant dentar premium pret 500 de euro. Bont protetic inclus, consultatie gratuita.
 description: Implant dentar de calitate Bredent fabricat in Germania, pret accesibil. Fara costuri ascunse, bontul protetic, consultatia sunt incluse in pret.
 ---
 
-<!-- Start Hero -->
 
 {% include hero.html %}
 
-<!-- End Hero -->
 
 
-<!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Oferta implant dentar Alpha Bio<br/> pret 300 euro redus cu 40%</h2>
+        <h2 class="section-title">Implant dentar Alpha Bio<br/> pret 300 euro</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 250 euro">
+                <img class="img-responsive" src="/img/promo/implant-dentar-pret-250.jpg" alt="Implant dentar Alpha Bio pret 300 euro">
                 <p>
             <strong>Actualizare 2021: pretul unui implant Alpha Bio este 300 de euro</strong>
             </p>
@@ -33,7 +30,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
     <br/>
     
         <div class="container-fluid">
-        <h2 class="section-title">Oferta implant dentar Bredent<br/> pret 500 euro redus cu 30%</h2>
+        <h2 class="section-title">Oferta implant dentar Bredent<br/> pret 500 euro</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -53,15 +50,9 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
     
    
 </div>
-<!-- End About -->
 
-
-<!-- Start Contact -->
 
 {% include contact.html %}
-
-<!-- End Contact -->
-
 
     
     
