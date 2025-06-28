@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Oferta implant dentar premium pret 500 de euro. Bont protetic inclus, consultatie gratuita.
+title: Implant dentar premium pret 500 de euro. Bont protetic inclus, consultatie gratuita.
 description: Implant dentar de calitate Bredent fabricat in Germania, pret accesibil. Fara costuri ascunse, bontul protetic, consultatia sunt incluse in pret.
 ---
 
@@ -14,17 +14,11 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
 <!-- Start About -->
 <div id="oabout" class="about">
     <div class="container-fluid">
-        <h2 class="section-title">Ofertă implant dentar premium Bredent <br/> preț 500 euro - redus cu 30%</h2>
+        <h2 class="section-title">Implant dentar premium Bredent <br/> preț 500 euro</h2>
         
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <img class="img-responsive" src="/img/promo/implant-dentar-bredent-500.jpg" alt="Implant dentar Bredent pret 500 euro">
-                <br/><br/>
-                <p>                    
-                     Ofertă valabilă până pe {{site.offer.expiry}}. 
-                </p>
-                <p>Dacă nu vă puteți programa în timpul valabilității ofertei ne puteți scrie un mesaj mai jos.</p>
-
             </div>
             <br/><br/>
         </div>
@@ -38,7 +32,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                 <h3>Dr Petronela Poenaru - Dr Irina Alexandru</h3>
 
                 <p>
-                 Suntem dentiste cu experiență de peste 15 ani in stomatologie generală si implantologie. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei astfel incat cat mai mulți pacienți sa aibă access la acest tratament, dar în același timp am păstrat în ofertă un implant de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a> sau <a href="{{site.contact.gg_reviews}}" target="_blank">Google</a>. 
+                 Suntem dentiste cu experiență de peste 25 ani in stomatologie generală si implantologie. Cabinetul {{site.name}} promoveză tratamentul cu implanturi dentare de calitate la preturi accesibile. Am redus prețul manoperei astfel incat cat mai mulți pacienți sa aibă access la acest tratament, dar în același timp am păstrat în ofertă un implant de calitate. Succesul acestei abordări de ani de zile il probează și mărturiile de pe pagina noastră de <a href="{{site.contact.fb_reviews}}" target="_blank">Facebook</a> sau <a href="{{site.contact.gg_reviews}}" target="_blank">Google</a>. 
                 </p>
                 
                 
@@ -69,7 +63,7 @@ description: Implant dentar de calitate Bredent fabricat in Germania, pret acces
                         </div>
                     </div>
                     <div class="media-body">
-                        <p>Care este pretul total? - Oferta de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care costa 150 de euro. Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
+                        <p>Care este pretul total? - Pachetul de implant dentar include bonturile protetice si de vindecare. Pentru un dinte singurul cost aditional este coronita care costa 150 de euro. Pentru refacerea mai multor dinti trebuie evaluat cate implanturi si cate coronite sunt necesare.</p>
                     </div>
                 </div>
                 
